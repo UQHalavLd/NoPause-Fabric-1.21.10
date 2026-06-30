@@ -1,6 +1,14 @@
 # ⚡ NoPause (Fabric 1.21.10) ⚡
 
 <p align="center">
+  <img src="son.png" alt="NoPause Showcase" width="600" />
+  <br>
+  <i>  📸 * `EN:` I tried to talk with the owner of the mod but he is a asshole so ı didn't mention about it.
+       📸 * `TR:` Modun sahibiyle konuşmaya çalıştım ama tam bir pislik; o yüzden konuyu açmadım.
+  </i>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Minecraft-1.21.10-green?style=for-the-badge&logo=minecraft&logoColor=white" />
   <img src="https://img.shields.io/badge/Fabric-Loader-blue?style=for-the-badge&logo=fabric&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Optimized-orange?style=for-the-badge" />
@@ -34,8 +42,8 @@
 ### 🚀 Usage & Commands / Kullanım ve Komutlar
 
 > [!IMPORTANT]
-> **EN:** The mod is need to be enabled using: /nopause enabled 
-> **TR:** Modun etkinleştirilmesi için şu yöntem kullanılmalıdır: /nopause enabled
+> **EN:** The mod is need to be enabled using: `/nopause enable`  
+> **TR:** Modun etkinleştirilmesi için şu yöntem kullanılmalıdır: `/nopause enable`
 
 * `/nopause enable` 
   * `EN:` Ensures the mod is active and running perfectly.
