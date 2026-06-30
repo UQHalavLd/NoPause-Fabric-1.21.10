@@ -2,10 +2,11 @@
 
 <p align="center">
   <img src="son.png" alt="NoPause Showcase" width="600" />
-  <br>
-  <i>  📸 * `EN:` I tried to talk with the owner of the mod but he is a asshole so ı didn't mention about it.
-       📸 * `TR:` Modun sahibiyle konuşmaya çalıştım ama tam bir pislik; o yüzden konuyu açmadım.
-  </i>
+</p>
+
+<p align="center">
+  <sub><b>EN:</b> I tried to talk with the owner of the mod but he is an asshole, so I didn't mention him.</sub><br>
+  <sub><b>TR:</b> Modun sahibiyle konuşmaya çalıştım ama tam bir pislik; o yüzden kendisinden bahsetmedim.</sub>
 </p>
 
 <p align="center">
