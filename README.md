@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <sub><b>EN:</b> I tried to talk with the owner of the mod but he is an asshole, so I didn't mention him.</sub><br>
-  <sub><b>TR:</b> Modun sahibiyle konuşmaya çalıştım ama tam bir pislik; o yüzden kendisinden bahsetmedim.</sub>
+  <i><b>EN:</b> I tried to talk with the owner of the mod but he is an asshole, so I didn't mention him.</i><br>
+  <i><b>TR:</b> Modun sahibiyle konuşmaya çalıştım ama tam bir pislik; o yüzden kendisinden bahsetmedim.</i>
 </p>
 
 <p align="center">
